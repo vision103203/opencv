@@ -4,6 +4,8 @@
 #include "cv.h"
 #include "cascadeclassifier.h"
 
+/* some git test comment */
+
 using namespace std;
 using namespace cv;
 
